@@ -1,8 +1,10 @@
 import React from 'react';
 import styles from './Column.scss';
-
+import PropTypes from 'prop-types';
+import Card from '../Card/Card.js';
 
 class Column extends React.Component {
+
 
     render() {
 
